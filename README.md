@@ -9,7 +9,9 @@
 
 <br/>
 
-
+![Edad](https://img.shields.io/badge/18years_old-Student-3b82f6?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-Expert-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![English](https://img.shields.io/badge/English-B1_(TOEIC)-e11d48?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Panam%C3%A1%20Oeste-4B5A2B?style=for-the-badge&logo=googlemaps&logoColor=F7F3EA)
 
 
